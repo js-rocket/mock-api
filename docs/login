@@ -1,0 +1,7 @@
+{
+  "email": "user1@example.com",
+  "userid": "ae811f90-c3d2-11ec-9d64-0242ac120002",
+  "firstname": "User",
+  "lastname": "One",
+  "jwt": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJPbmxpbmUgSldUIEJ1aWxkZXIiLCJpYXQiOjE2NTA4MDcwNTgsImV4cCI6MTY4MjM0MzA1OCwiYXVkIjoid3d3LmV4YW1wbGUuY29tIiwic3ViIjoianJvY2tldEBleGFtcGxlLmNvbSIsIkdpdmVuTmFtZSI6IkpvaG5ueSIsIlN1cm5hbWUiOiJSb2NrZXQiLCJFbWFpbCI6Impyb2NrZXRAZXhhbXBsZS5jb20iLCJSb2xlIjpbIk1hbmFnZXIiLCJQcm9qZWN0IEFkbWluaXN0cmF0b3IiXX0.hd7xu5B6zMfbyrC7KHGdJMm9cZTWIvQCkL2fBrlaQgw"
+}
